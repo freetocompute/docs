@@ -26,21 +26,24 @@ well. However without an open source implementation of the distribution
 mechanism it's impossible for many people to fully embrace the echo system.
 
 A single store is great for people that want it and the entity controlling the
-single store.
+single store. If you don't fall into one of those two camps then it's a terrible
+ecosystem.
 
-If you don't fall into one of those two camps then it's a terrible echo system.
+We would also like to provide a solution for exploration and experimentation in
+all things snaps!
 
 Also, we love Ubuntu and want to continue to use it the way we see fit.
 
 ## What does it do?
 
-Not a lot at the moment. But with the proper setup (including a patched snapd)
-you can host snaps, download them and even build and Ubuntu Core against
+Not a lot at the moment. But with the proper setup (including a minimally
+  patched snapd)
+you can host snaps, download them and even build an Ubuntu Core against
 that store.
 
 ## What doesn't it do?
 
-That list is too long to list. Pick something and then assume it doesn't do that
+That list is too long. Pick something and then assume it doesn't do that
 and then be pleasantly surprised when it does. :)
 
 ## Is it production ready?
@@ -73,7 +76,7 @@ Canonical changes its mind.
 
 ## Where did the name come from? What does it mean?
 
-Kebe is a shortening of kebebasan, the Bahasa Indonesian word for libery or freedom.
+Kebe is a shortening of kebebasan, the Bahasa Indonesian word for liberty or freedom.
 
 ## Help improve this project and this README
 
